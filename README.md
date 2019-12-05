@@ -19,6 +19,7 @@ On Demand service.
 3. Models -> Movie and User specific Model classes
 4.RepositoryServiceLocator -> Service Locator to locate the Repository of DB Context
 5. Utils -> Password Encryption Utility
+6. MoviesOnDemandAPITest.postman_collection.json -> Postman Request Collection to test (partial implementation)
 
 # Design Patterns Implemented
 
