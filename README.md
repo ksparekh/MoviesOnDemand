@@ -4,21 +4,21 @@
 Design and implement a WebAPI service project which is production ready for Internet Movies
 On Demand service.
 
-● Register new user (For Admin &amp; Viewer)
-● Login (For Admin &amp; Viewer)
-● Create new Category of Videos (Only for Admin)
-● Add new videos to a category ( Only for Admin)
-● Get list of categories &amp; videos (For Admin &amp; Viewer)
-● Delete a category (Only for Admin)
-● Update video description (Only for Admin)
+1. Register new user (For Admin &amp; Viewer)
+2. Login (For Admin &amp; Viewer)
+3. Create new Category of Videos (Only for Admin)
+4. Add new videos to a category ( Only for Admin)
+5. Get list of categories &amp; videos (For Admin &amp; Viewer)
+6. Delete a category (Only for Admin)
+7. Update video description (Only for Admin)
 
 # Folder Structure
 
-Controllers -> REST endpoint controller
-Data -> DB Context Class, Repository Interface and Concrete Implementation of Repository for the DB Context
-Models -> Movie and User specific Model classes
-RepositoryServiceLocator -> Service Locator to locate the Repository of DB Context
-Utils -> Password Encryption Utility
+1. Controllers -> REST endpoint controller
+2. Data -> DB Context Class, Repository Interface and Concrete Implementation of Repository for the DB Context
+3. Models -> Movie and User specific Model classes
+4.RepositoryServiceLocator -> Service Locator to locate the Repository of DB Context
+5. Utils -> Password Encryption Utility
 
 # Design Patterns Implemented
 
