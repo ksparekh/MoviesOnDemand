@@ -17,7 +17,7 @@ On Demand service.
 1. Controllers -> REST endpoint controller
 2. Data -> DB Context Class, Repository Interface and Concrete Implementation of Repository for the DB Context
 3. Models -> Movie and User specific Model classes
-4.RepositoryServiceLocator -> Service Locator to locate the Repository of DB Context
+4. RepositoryServiceLocator -> Service Locator to locate the Repository of DB Context
 5. Utils -> Password Encryption Utility
 6. MoviesOnDemandAPITest.postman_collection.json -> Postman Request Collection to test (partial implementation)
 
