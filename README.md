@@ -38,12 +38,15 @@ On Demand service.
 - Postman collection is also added with the code.
 - The application is not running as of today, due to version mismatch of various packages.
 - The code is developed with better error responses.
+- Design and architecture is built with best practices in sight.
+- The current implementation adheres to the starndard coding practices
 
 # Pending Implementation
 
 1. Movies &amp; Category DB operations.
 2. Movies &amp; Category Controllers.
 3. Password encryption logic to be plugged to the Registration and Login implementation.
+4. Unit Tests Cases.
 
 # Articles/Help referred during implementation
 
