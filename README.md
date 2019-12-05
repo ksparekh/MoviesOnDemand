@@ -47,6 +47,9 @@ On Demand service.
 2. Movies &amp; Category Controllers.
 3. Password encryption logic to be plugged to the Registration and Login implementation.
 4. Unit Tests Cases.
+5. Deploying the app on Azure App Service
+6. Using Azure DevOps instead of GitHub.
+7. Building CORS ready APIs.
 
 # Articles/Help referred during implementation
 
